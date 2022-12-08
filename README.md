@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=JIHYUN&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24"/>
 
 <!--
 **sbear123/sbear123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
